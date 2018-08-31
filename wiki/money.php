@@ -39,7 +39,7 @@
     margin-top: 2em;
   }
   .ui.footer.segment {
-    position: fixed;
+    /*position: fixed; */
     margin: 5em 0em 0em;
     padding: 5em 0em;
     bottom: 0;
@@ -59,6 +59,12 @@
       <h3>Jak získat peníze ?</p>
         <p></p>
       <h3>Efektivní vidělávání</h3>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
         <li></li>
         <li></li>
       </div>

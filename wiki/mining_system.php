@@ -39,7 +39,7 @@
     margin-top: 2em;
   }
   .ui.footer.segment {
-    position: fixed;
+    /*position: fixed; */
     margin: 5em 0em 0em;
     padding: 5em 0em;
     bottom: 0;
@@ -59,6 +59,10 @@
       <h3>Jak získat levely a odemykat suroviny ?</p>
         <p></p>
       <h3>Seznam Survovin a Potřebné Levely k jejich odemčení</h3>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
         <li></li>
         <li></li>
       </div>
