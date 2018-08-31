@@ -56,23 +56,26 @@
     <h1 class="ui header">Residence Návod</h1>
     <div class="ui vertical stripe segment">
       <div class="ui center aligned list">
-      <h3>Jak vytvořit residenci</p>
-        <p></p>
+      <h3>Jak vytvořit residenci ?</h3>
+        <p>Na našem serveru se vytváři residence stickem. Jak vlastně jí vytvořit ?
+          Vezme te si stick a klikneme prvně pravým tlačítkem myši,
+          poté levým tlačítkem a napíšete /res select vert - Což vám označí maximální možný výběr od bedrocku až po nebe.
+          Poslední krok napíšete příkaz /res create jmeno_resky - Jakékoliv jméno které chcete je to na vás.</p>
       <h3>Seznam Základních Vlajek pro Hráče</h3>
         <li>/res help - Vypíšení všechny příkazy</li>
         <li>/res select vert - Označí nahoru až do bedrocku </li>
 		<li>/res create [jméno_resky] - Vytváří rezidenci </li>
 		<li>/res set - Davá opravnění všem lidem v resce </li>
 		<li>/res info - Informace o rezidenci </li>
-		<li>/res pset [jméno_hráče] - Dává právo určenému hráči </li> 
+		<li>/res pset [jméno_hráče] - Dává právo určenému hráči </li>
 		<li>/res tpset - Nastavuje pozici telportaci v rezidenci </li>
         <li>/res limits - Zobrazuje moje limity </li>
         <li>/res tp - Telportuje se do residence </li>
-		<li>/res remove[jméno_resky] - Odstranění rezidence </li> 
+		<li>/res remove[jméno_resky] - Odstranění rezidence </li>
 		<li>/res confirm [jméno_resky] - Potvrzuje odstranění rezidence </li>
 		<li>/res give [jméno_resky] [jméno_hráče] -  Darovat residence Hráčovi </li>
 		<li>/res kick [jméno_hráče] - vyhodí hráče z residence </li>
-		<li></li>                     
+		<li></li>
       </div>
   </div>
 </div>
