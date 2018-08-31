@@ -58,9 +58,21 @@
       <div class="ui list">
       <h3>Jak vytvořit residenci</p>
         <p></p>
-      <h3>Seznam Základních Příkazů a Vlajek</h3>
-        <li>/res help - </li>
-        <li></li>
+      <h3>Seznam Základních Vlajek pro Hráče</h3>
+        <li>/res help - Vypíšení všechny příkazy</li>
+        <li>/res select vert - Označí nahoru až do bedrocku </li>
+		<li>/res create [jméno_resky] - Vytváří rezidenci </li>
+		<li>/res set - Davá opravnění všem lidem v resce </li>
+		<li>/res info - Informace o rezidenci </li>
+		<li>/res pset [jméno_hráče] - Dává právo určenému hráči </li> 
+		<li>/res tpset - Nastavuje pozici telportaci v rezidenci </li>
+        <li>/res limits - Zobrazuje moje limity </li>
+        <li>/res tp - Telportuje se do residence </li>
+		<li>/res remove[jméno_resky] - Odstranění rezidence </li> 
+		<li>/res confirm [jméno_resky] - Potvrzuje odstranění rezidence </li>
+		<li>/res give [jméno_resky] [jméno_hráče] -  Darovat residence Hráčovi </li>
+		<li>/res kick [jméno_hráče] - vyhodí hráče z residence </li>
+		<li></li>                     
       </div>
   </div>
 </div>
