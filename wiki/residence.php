@@ -55,7 +55,7 @@
   <div class="ui main center aligned text container">
     <h1 class="ui header">Residence Návod</h1>
     <div class="ui vertical stripe segment">
-      <div class="ui list">
+      <div class="ui center aligned list">
       <h3>Jak vytvořit residenci</p>
         <p></p>
       <h3>Seznam Základních Vlajek pro Hráče</h3>
