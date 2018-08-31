@@ -58,7 +58,7 @@
       <div class="ui list">
       <h3>Jak vytvořit residenci</p>
         <p></p>
-      <h3>Seznam Základních Vlajek pro Hráče</h3>
+      <h3>Seznam Základních Příkazů a Vlajek</h3>
         <li>/res help - </li>
         <li></li>
       </div>
