@@ -55,7 +55,7 @@
   <div class="ui main center aligned text container">
     <h1 class="ui header">Kredit Návod</h1>
     <div class="ui vertical stripe segment">
-    <div class="ui middle aligned stackable grid container">
+      <div class="ui center aligned list">
       <h3>Jak získat kredity </p>
         <p></p>
     </div>

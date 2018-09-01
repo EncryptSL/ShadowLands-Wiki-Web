@@ -55,7 +55,7 @@
   <div class="ui main center aligned text container">
     <h1 class="ui header">Shards Návod</h1>
     <div class="ui vertical stripe segment">
-      <div class="ui middle aligned list">
+      <div class="ui center aligned list">
       <h3>Jak získat shards ?</p>
         <p></p>
       <h3>Seznam Typů Shardu</h3>
