@@ -56,6 +56,7 @@
     <h1 class="ui header">Residence Návod</h1>
     <div class="ui vertical stripe segment">
       <div class="ui center aligned list">
+        <img class="ui centered medium image" src="/assets/img/residence.png">
       <h3>Jak vytvořit residenci ?</h3>
         <p>Na našem serveru se vytváři residence stickem. Jak vlastně jí vytvořit ?
           Vezme te si stick a klikneme prvně pravým tlačítkem myši,

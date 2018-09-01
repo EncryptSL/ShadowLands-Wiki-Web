@@ -57,10 +57,14 @@
     <div class="ui vertical stripe segment">
       <div class="ui center aligned list">
       <h3>Jak získat shards ?</p>
-        <p></p>
+        <p>Co to vlastně je ? Shards jsou typi shardu neboli něco jako herní měny kterou,
+          ovšem není možné lehké získat. Shards mají 3 typy, FREE_SHARDS, LUCKY_SHARDS a VIP_SHARDS.
+          Slouží k otevírání odměn v postavičce Mario je to náš vlastní plugin.
+          Podotýkám získat je můžete v hlasování a vote party.</p>
       <h3>Seznam Typů Shardu</h3>
-        <li></li>
-        <li></li>
+        <li>FREE_SHARDS</li>
+        <li>LUCKY_SHARDS</li>
+        <li>VIP_SHARDS</li>
       </div>
   </div>
 </div>

@@ -57,14 +57,18 @@
     <div class="ui vertical stripe segment">
       <div class="ui center aligned list">
       <h3>Jak získat levely a odemykat suroviny ?</p>
-        <p></p>
+        <p>Zde se dozvýš základní typu jak funguje mining a level systém.
+        Jednoduché vysvětlení pro nové hráče. Vás level není závyslí na Vanilla levelu.
+        O všem jeho exping ano, takže pokud dáte ve hře level up pomocí vanilla levelu dostanete 1+ level.
+      Který se vám poté přičte k následujícímu, plus také dostáváte points bodíky které potřebujete pro enchant.
+      Na serveru potřebujete odemčít suroviny pomocí virtuálního levelu který získate za zmíněný vanilla level up.
+      Dále více v seznamu surovin a jejich potřebé levely k odemčení.</p>
       <h3>Seznam Survovin a Potřebné Levely k jejich odemčení</h3>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>Level 1, jsou všechny dřeva, také stone bricks, mossy cobble, mossy stone bricks.</li>
+        <li>Level 5, jsou orečka typu (COAL_ORE, GOLD_ORE, IRON_ORE, LAPIS_ORE, NETHER_QUARTZ_ORE, REDSTONE_ORE)</li>
+        <li>Level 15, jsou vzácnější orečka (DIAMOND_ORE, EMERALD_ORE) + také spawner.</li>
+
+        <p>Pokud nedostáhnete následujících těchto levelů nebudete moci težit. Ani vydělávat ale to v jobs více.</p>
       </div>
   </div>
 </div>

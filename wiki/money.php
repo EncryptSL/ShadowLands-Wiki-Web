@@ -57,16 +57,15 @@
     <div class="ui vertical stripe segment">
     <div class="ui center aligned list">
       <h3>Jak získat peníze ?</p>
-        <p></p>
+        <p>Peníze získate jednoduše stačí těžit a těžit, nebo obchodovat s hráči.
+        Ostatně kvůli tomu to tady určitě čteš.</p>
       <h3>Efektivní vidělávání</h3>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+        <li>1. Určitě nejlepší výdělek jsou jobs.</li>
+        <li>2. Obchodování s hráči nebo trade vyměná.</li>
+        <li>3. Prodávání v shopu.</li>
+        <li>4. Najmout se jako hráč který chce pomoct.</li>
+        <li>5. Pomoct odhalit bug.</li>
+        <li>6. Nahlásit cheatera apod..</li>
       </div>
   </div>
 </div>

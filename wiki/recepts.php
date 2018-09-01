@@ -53,20 +53,19 @@
 
 
   <div class="ui main center aligned text container">
-    <h1 class="ui header">Money Návod</h1>
+    <h1 class="ui header">Vlastní Recepty Návod</h1>
     <div class="ui vertical stripe segment">
     <div class="ui center aligned list">
-      <h3>Jak získat peníze ?</p>
-        <p></p>
-      <h3>Efektivní vidělávání</h3>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
-        <li></li>
+      <h3>Jak si vyrobit itemy které nejdou vyrobit ?</p>
+        <p>Aktuálně náš server nabízí své vlastní recepty.
+          Které nikde na jiném serveru nenajdete.
+          U nás na serveru si můžete vyrobit i zlaté enchantované jablko,
+          nebo i sedlo které se dá pouze nalést.</p>
+      <h3>Seznam Receptu</h3>
+        <b>Enchantované Jablko Recept</b>
+        <img class="ui centered medium image" src="/assets/img/recepty/enchantovane_jablko.png">
+        <b>Sedlo na koně</b>
+        <img class="ui centered medium image" src="/assets/img/recepty/sedlo.png">
       </div>
   </div>
 </div>

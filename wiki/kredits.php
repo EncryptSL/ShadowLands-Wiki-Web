@@ -56,8 +56,13 @@
     <h1 class="ui header">Kredit Návod</h1>
     <div class="ui vertical stripe segment">
       <div class="ui center aligned list">
-      <h3>Jak získat kredity </p>
-        <p></p>
+      <h3>Jak získat kredity ?</h3>
+      <p>Co to vlastně kredity jsou ? Kredity jsou naší druhou herní měnou.
+      Která je ovšem placená a aby jste jí získali potřebujete poslat SMS a tím tak pomůžete k dalšímu vývoji.</p>
+      <h3>Jiné způsoby jak získat kredity</h3>
+        <li>Platba pomocí SMS nebo PSF</li>
+        <li>Hlasování + VoteParty</li>
+        <li>Mario Postavička</li>
     </div>
   </div>
 </div>
