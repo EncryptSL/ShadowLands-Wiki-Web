@@ -57,10 +57,15 @@
     <div class="ui vertical stripe segment">
       <div class="ui center aligned list">
       <h3>Jak vytvořit warp ?</p>
-        <p></p>
-      <h3>Seznam dostupných warpů</h3>
-        <p></p>
-        <p></p>
+        <p>Každý hráč který si zakoupil vip má právo na vytvoření warpu. Jak ho vytvořit je to jednoduché stačí vlastnit VIP.
+          Poté napíšete /setwarp [jmeno_warpu] - bez závorek a je hotovo. Následně se na svůj warp teleportujete pomocí příkazu /warp [jmeno_warpu] - bez závorek.</p>
+      <h3>Seznam všech dostupných warpů</h3>
+        <li>/warp adminteam</li>
+        <li>/warp end</li>
+        <li>/warp nether</li>
+        <li>/warp port#2</li>
+        <li>/warp shop</li>
+        <p>Poslední aktualizace 1.9.2018</p>
       </div>
     </div>
 </div>
