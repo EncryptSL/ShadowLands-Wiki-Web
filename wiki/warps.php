@@ -69,7 +69,7 @@
         <li>/warp recepty </li>
         <li>/warp vip </li>
         <li>/warp problémy </li>
-        <p>Poslední aktualizace 1.9.2018</p>
+        <p>Poslední aktualizace 4.9.2018</p>
       </div>
     </div>
 </div>
