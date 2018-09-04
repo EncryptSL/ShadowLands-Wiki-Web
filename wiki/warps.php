@@ -65,10 +65,16 @@
         <li>/warp nether</li>
         <li>/warp port#2</li>
         <li>/warp shop</li>
+<<<<<<< HEAD
 		<li>/warp pvp </li>
 		<li>/warp vip </li>
 		<li>/warp recepty </li>
         <p>Poslední aktualizace 2.9.2018</p>
+=======
+        <li>/warp recepty </li>
+        <li>/warp vip </li>
+        <li>/warp problémy </li>
+        <p>Poslední aktualizace 4.9.2018</p>
       </div>
     </div>
 </div>
