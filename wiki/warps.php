@@ -69,7 +69,8 @@
         <li>/warp recepty </li>
         <li>/warp vip </li>
         <li>/warp problémy </li>
-        <p>Poslední aktualizace 4.9.2018</p>
+        <li>/warp enchant </li>
+        <p>Poslední aktualizace 6.9.2018</p>
       </div>
     </div>
 </div>
