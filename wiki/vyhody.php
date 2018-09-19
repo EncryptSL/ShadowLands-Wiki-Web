@@ -53,12 +53,14 @@
 
 
   <div class="ui main center aligned text container">
-    <h1 class="ui header">Wiki Stránka</h1>
-    <img class="ui middle aligned massive image" src="/assets/img/wiki_logo.png">
+    <h1 class="ui header">VIP Výhody</h1>
     <div class="ui vertical stripe segment">
-    <div class="ui middle aligned stackable grid container">
-      <h2>Vítej na Wikki Stránce serveru ShadowLands CZ/SK.
-      Najdeš zde všechno co budeš potřebovat k normálnímu hraní na našem serveru !</h2>
+      <div class="ui center aligned list">
+      <h3>Seznam VIP výhod</h3>
+      <p>EASY VIP - VIP</p>
+      <li></li>
+      <h3>EXTRA VIP</h3>
+      <li></li>
     </div>
   </div>
 </div>

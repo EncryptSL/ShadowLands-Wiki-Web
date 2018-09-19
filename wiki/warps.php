@@ -70,7 +70,10 @@
         <li>/warp vip </li>
         <li>/warp problémy </li>
         <li>/warp enchant </li>
-        <p>Poslední aktualizace 6.9.2018</p>
+        <li>/warp crates</li>
+        <li>/warp mario</li>
+        <li>/warp nápady</li>
+        <p>Poslední aktualizace 19.9.2018</p>
       </div>
     </div>
 </div>

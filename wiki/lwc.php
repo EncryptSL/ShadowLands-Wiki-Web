@@ -53,12 +53,20 @@
 
 
   <div class="ui main center aligned text container">
-    <h1 class="ui header">Wiki Stránka</h1>
-    <img class="ui middle aligned massive image" src="/assets/img/wiki_logo.png">
+    <h1 class="ui header">Lwc Návod</h1>
     <div class="ui vertical stripe segment">
-    <div class="ui middle aligned stackable grid container">
-      <h2>Vítej na Wikki Stránce serveru ShadowLands CZ/SK.
-      Najdeš zde všechno co budeš potřebovat k normálnímu hraní na našem serveru !</h2>
+      <div class="ui center aligned list">
+      <h3>Jak uzamknout bloky pece atd.. ?</h3>
+      <p>Dalším způsobem jak ochránit své pece a chestky, je uzamčít si blok.</>
+      <h3>Způsoby uzamknutí a seznam příkazů</h3>
+        <li>/lwc help - Zobrazí ostatní příkazy pro hráče.</li>
+        <li>/cpublic - Nastaví chestku/pec jako public.</li>
+        <li>/cprivate - Nastaví chestku/pec/dveře jako privátní uzamčený blok.</li>
+        <li>/cunlock - Odemče chestku/pec/dveře všem hráčům.</li>
+        <li>/cdonation - Nastaví chestku jako charitativní hráči budou moct vkládat ale brát ne.</li>
+        <li>/cmodify [hráč] - Povolí danému hráči otevírání, chestky nebo dveří pece apod.</li>
+        <li>/lwc mode persist - Budete mocit použít příkaz několikrát bez psaní například /cmodify</li>
+        <li>/lwc flag hopper on - Kliknutím na chestku nebo pec povolíte padání itemu do předmětu.</li>
     </div>
   </div>
 </div>
